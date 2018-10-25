@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\John\Desktop\QtHelloWorldQt5\QtHelloWorldQt5\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\John\Desktop\QtHelloWorldQt5\QtHelloWorldQt5\qtprogramwin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\John\Desktop\QtHelloWorldQt5\QtHelloWorldQt5\bin\moc_qtprogramwin.cpp">
+      <Filter>Generated</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\John\Desktop\QtHelloWorldQt5\QtHelloWorldQt5\bin\ui_qtprogramwin.h">
+      <Filter>Generated</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\John\Desktop\QtHelloWorldQt5\QtHelloWorldQt5\qtprogramwin.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\John\Desktop\QtHelloWorldQt5\QtHelloWorldQt5\CMakeLists.txt" />
+    <CustomBuild Include="C:\Users\John\Desktop\QtHelloWorldQt5\QtHelloWorldQt5\qtprogramwin.ui">
+      <Filter>Resources</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\John\Desktop\QtHelloWorldQt5\QtHelloWorldQt5\bin\CMakeFiles\13c1dc060fb1e36956541acf67f824f9\moc_qtprogramwin.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{BC51FBF4-4D52-3985-B3A7-22CADB6C44D1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{1D4AAAAA-13F3-3984-9ACD-530537DBC0DC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{EBA6E8B6-D9BB-3819-9379-289054976A2F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{0259D8C1-F58E-3DB4-82F0-1703D151FADA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Generated">
+      <UniqueIdentifier>{C039FF8C-20A1-36F8-9FFD-82F1737737CE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

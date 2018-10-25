@@ -1,0 +1,4 @@
+--compiler-flavor=msvc
+-o
+C:/Users/John/Desktop/QtHelloWorldQt5/QtHelloWorldQt5/bin/moc_qtprogramwin.cpp
+C:/Users/John/Desktop/QtHelloWorldQt5/QtHelloWorldQt5/qtprogramwin.h
